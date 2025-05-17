@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eyuel693/workflow-test-training/static/css/main.c9b77f7f.css",
+    "main.js": "/eyuel693/workflow-test-training/static/js/main.a9ed418c.js",
+    "index.html": "/eyuel693/workflow-test-training/index.html",
+    "main.c9b77f7f.css.map": "/eyuel693/workflow-test-training/static/css/main.c9b77f7f.css.map",
+    "main.a9ed418c.js.map": "/eyuel693/workflow-test-training/static/js/main.a9ed418c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b77f7f.css",
+    "static/js/main.a9ed418c.js"
+  ]
+}
